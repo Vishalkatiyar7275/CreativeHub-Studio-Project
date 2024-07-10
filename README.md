@@ -1,10 +1,10 @@
 
-# Sundown Studio Website
+# CreativeHub Studio Website
 
 
 ## Description
 
-Sundown Studio is a multi-disciplinary creative studio specializing in creating unique environments and experiences. This repository contains the code for their official website, showcasing their portfolio, services, and ethos through a visually appealing and interactive design.
+CreativeHub Studio Website is a Frontend website with a visually appealing and interactive design.
 
 ## Table of Contents
 
@@ -42,9 +42,9 @@ Sundown Studio is a multi-disciplinary creative studio specializing in creating 
 
 
 
-Project Summary for Sundown Studio
+Project Summary for CreativeHub Studio Website
 1. Project Overview:
-Sundown Studio is a multi-disciplinary creative studio specializing in creating unique environments and experiences. The website showcases their portfolio, services, and ethos through a visually appealing and interactive design.
+CreativeHub Studio Website is a Frontend website with a visually appealing and interactive design.
 
 2. Technologies Used:
 
